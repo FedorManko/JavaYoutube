@@ -1,0 +1,5 @@
+Fedor 28 9.7 Belarus
+Max 20 9.4 Russia
+Ivan 21 3.7 Poland
+Boris 22 5.7 Italy
+Alex 19 7.7 Germany

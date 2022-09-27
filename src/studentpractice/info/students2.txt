@@ -1,0 +1,4 @@
+ Student | Name: Fedor | Age: 28 | Mark: 9,700000 | Country: Belarus |
+ Student | Name: Ivan | Age: 21 | Mark: 3,700000 | Country: Poland |
+ Student | Name: Boris | Age: 22 | Mark: 5,700000 | Country: Italy |
+ Student | Name: Alex | Age: 19 | Mark: 7,700000 | Country: Germany |
